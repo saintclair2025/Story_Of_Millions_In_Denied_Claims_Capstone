@@ -1,4 +1,5 @@
 Project Title:The story of Millions In Denied Claims
+
 Introduction:
 This project focuses on understanding why healthcare claims get denied, especially those with the CO-119 (Benefit Maximum Reached) denial. Our goal is to explore the data, find patterns, and highlight where insurance companies and treatment categories face the most issues.
 
